@@ -2,6 +2,7 @@
 ## 解除封印咒语
 
 #### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在 [ChatGPT入门指南](ChatGpt-receipt.md)
+#### 如果你想要对DeepSeek有效的提示词，案例和教学在[DeepSeek模型提示词](DeepSeek.md)
 
 ## 它能干什么?
 
